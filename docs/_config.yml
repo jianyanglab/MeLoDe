@@ -1,5 +1,5 @@
 # name of the software
-name: Jekyll Docs Theme
+remote_theme:  allejo/jekyll-docs-theme
 
 project:
   version: 1.0.0
