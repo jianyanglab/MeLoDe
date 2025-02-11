@@ -2,15 +2,10 @@
 layout: full
 homepage: true
 disable_anchors: true
-description: If mediocrity had a Jekyll theme...
+description: Detect DNA Methylaion from Low-depth long-read sequencing
 ---
-# Example
-
-xxxxxx
-
-
 # MeLoDe
- <u>**De**</u>tect DNA **Me**thylaion from **Lo**w-depth long-read sequencing
+ **De**tect DNA **Me**thylaion from **Lo**w-depth long-read sequencing
 
 ![combi_workflow](combi_workflow.png)
 

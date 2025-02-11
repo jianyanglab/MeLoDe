@@ -3,7 +3,7 @@ remote_theme:  allejo/jekyll-docs-theme
 
 project:
   version: 1.0.0
-  download_url: https://github.com/allejo/jekyll-docs-theme/releases
+  download_url: https://github.com/JavenCao/MeLoDe
   download_text: Download
 
 license:
@@ -18,20 +18,20 @@ links:
     - title: GitHub
       icon: github
       brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://github.com/JavenCao/MeLoDe
   homepage:
     - title: View on GitHub
       icon: github
       brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://github.com/JavenCao/MeLoDe
   footer:
     - title: GitHub
       icon: github
       brand: true
-      url: https://github.com/allejo/jekyll-docs-theme
+      url: https://github.com/JavenCao/MeLoDe
     - title: Issues
       icon: bug
-      url: https://github.com/allejo/jekyll-docs-theme/issues?state=open
+      url: https://github.com/JavenCao/MeLoDe
 
 ui:
   mode: 'auto' # 'auto', 'dark', 'light'
