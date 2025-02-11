@@ -4,7 +4,7 @@ title: Front Matter
 description: ~
 ---
 
-This theme introduces special [front matter](https://jekyllrb.com/docs/front-matter/) options available in all pages to configure the behavior of said page.
+This themeddddddd introduces special [front matter](https://jekyllrb.com/docs/front-matter/) options available in all pages to configure the behavior of said page.
 
 ## Setting a Homepage
 
